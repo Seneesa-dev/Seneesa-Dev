@@ -2,7 +2,8 @@
 
 ✨ An enthusiastic developer exploring the tech world, building, breaking, and fixing things one commit at a time 😅  
 
-![Coding Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+![Coding Animation](![Loading - Kirokaze Pixel](https://github.com/user-attachments/assets/1dd3be5a-d48a-47e3-aedd-3d75ed5bb5c9)
+)
 
 ---
 

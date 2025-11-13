@@ -21,13 +21,13 @@
 - 🧠 Experimenting with app development, UI/UX, and network projects  
 - ☕ Powered by coffee and curiosity  
 
-![Developer Animation](https://media.giphy.com/media/l2Sq0q3lG7l2e7RRe/giphy.gif)
+![Developer Animation](https://pin.it/4E2sxZvAU)
 
 ---
 
 ### 📊 GitHub Stats  
-![Seneesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=seneesa&show_icons=true&theme=gruvbox_light)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seneesa&layout=compact&theme=gruvbox_light)
+![Seneesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seneesa-Dev&show_icons=true&theme=gruvbox_light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seneesa-Dev&layout=compact&theme=gruvbox_light)
 
 ---
 

@@ -2,8 +2,8 @@
 
 ✨ An enthusiastic developer exploring the tech world, building, breaking, and fixing things one commit at a time 😅  
 
-![Coding Animation](![Loading - Kirokaze Pixel](https://github.com/user-attachments/assets/1dd3be5a-d48a-47e3-aedd-3d75ed5bb5c9)
-)
+![Loading - Kirokaze Pixel](https://github.com/user-attachments/assets/1dd3be5a-d48a-47e3-aedd-3d75ed5bb5c9)
+
 
 ---
 
@@ -19,16 +19,26 @@
 ### 🌱 Currently Exploring  
 - 🐾 Building **[Rootrails](https://github.com/HirushaReshan/Rootrails)** — connecting eco-travelers with safari guides  
 - 🧠 Experimenting with app development, UI/UX, and network projects  
-- ☕ Powered by coffee and curiosity  
+- ☕ Powered by coffee and curiosity
 
-![Developer Animation](https://pin.it/4E2sxZvAU)
+  ## 💻 What I Do
+
+- 🌱 Exploring **AI, Web3, and Full-Stack Development**  
+- ⚡ Building **interactive web apps and tools**  
+- 🛠️ Coding mostly in **Python, JavaScript, and React**  
+- 🎮 Gamifying projects and experiments for fun 
+
+![Developer Animation](![download (3)](https://github.com/user-attachments/assets/c8e65778-e7e7-47e2-b915-db2b0c83f6a6)
+)
 
 ---
 
-### 📊 GitHub Stats  
-![Seneesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seneesa-Dev&show_icons=true&theme=gruvbox_light)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seneesa-Dev&layout=compact&theme=gruvbox_light)
+## 🌈 Fun Vibes
 
+- ☕ Powered by coffee and curiosity  
+- 🎵 Background music while coding: lo-fi, chillhop & epic orchestral  
+- 🧠 Life motto: *“Learn. Build. Break. Repeat.”*  
+- ✨ Always on the lookout for **fun coding experiments** 
 ---
 
 ### 📫 Let’s Connect  

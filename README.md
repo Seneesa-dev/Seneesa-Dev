@@ -28,7 +28,7 @@
 - 🛠️ Coding mostly in **Python, JavaScript, and React**  
 - 🎮 Gamifying projects and experiments for fun 
 
-[download (3)](https://github.com/user-attachments/assets/c8e65778-e7e7-47e2-b915-db2b0c83f6a6)
+![download (3)](https://github.com/user-attachments/assets/c8e65778-e7e7-47e2-b915-db2b0c83f6a6)
 
 
 ---
